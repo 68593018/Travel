@@ -20,7 +20,10 @@
 
 ### 大阪周游卡
 
-  + https://www.osaka-info.jp/osp/cht/
+  + https://www.osaka-info.jp/osp/cht/
+  
 ### 酒店
+
+  + http://www.jalan.net/
 
 
