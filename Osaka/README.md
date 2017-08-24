@@ -24,6 +24,6 @@
   
 ### 酒店
 
-  + http://www.jalan.net/
+  + http://www.jalan.net/
 
 
