@@ -18,10 +18,9 @@
 
   + http://www.surutto.com/tickets/kansai_thru_kyotai.html
 
+### 大阪周游卡
+
+  + https://www.osaka-info.jp/osp/cht/
 ### 酒店
-  
-  京都  
-  + http://www.kyoto.hotelkeihan.co.jp/zh-hans/
-  
-  大阪
-  
+
+
