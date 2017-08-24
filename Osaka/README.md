@@ -2,7 +2,6 @@
 
 + https://www.westjr.co.jp/global/sc/ticket/
 
-##  DAY1
 
 ### 关西机场 ----> 京都
 
@@ -15,3 +14,7 @@
   + http://www.keihan.co.jp/travel/cn/tickets/special#  
   
   + http://www.welcome2japan.cn/magazine/zh/special_keihan.html
+
+### 酒店
+  
+  + http://www.kyoto.hotelkeihan.co.jp/zh-hans/
