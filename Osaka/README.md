@@ -16,7 +16,7 @@
   
 ### 關西周遊卡KANSAI THRU PASS
 
-  + http://www.surutto.com/tickets/kansai_thru_kyotai.html
+  + http://www.surutto.com/tickets/kansai_thru_kyotai.html
 
 ### 酒店
   
