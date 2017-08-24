@@ -13,10 +13,14 @@
 
   + http://www.keihan.co.jp/travel/cn/tickets/special#
   + http://www.welcome2japan.cn/magazine/zh/special_keihan.html
+  
+### 關西周遊卡KANSAI THRU PASS
+
+  + http://www.surutto.com/tickets/kansai_thru_kyotai.html
 
 ### 酒店
   
-  京都
+  京都  
   + http://www.kyoto.hotelkeihan.co.jp/zh-hans/
   
   大阪
