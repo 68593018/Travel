@@ -13,6 +13,7 @@
 
   + http://www.keihan.co.jp/travel/cn/tickets/special
   + http://www.welcome2japan.cn/magazine/zh/special_keihan.html
+  + http://lazyjapan.com/regions/kansai/transport/howto/kyoto.html#bus
   
 ### 關西周遊卡KANSAI THRU PASS
 
