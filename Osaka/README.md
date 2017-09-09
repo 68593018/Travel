@@ -32,5 +32,7 @@
 ### 攻略
 
   + http://lazyjapan.com/
+  + http://bike.kyotobase.com/
+  + http://nicklee.tw/?load=read&amp;id=780 超强攻略
 
 
