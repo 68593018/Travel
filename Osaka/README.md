@@ -34,5 +34,7 @@
   + http://lazyjapan.com/
   + http://bike.kyotobase.com/
   + http://nicklee.tw/?load=read&amp;id=780 超强攻略
+  + http://www.mafengwo.cn/i/3484439.html
+  
 
 
